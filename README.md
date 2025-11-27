@@ -1,4 +1,4 @@
-# Satellite Image Analysis for Urban Growth Prediction - Project Code Bundle
+# Satellite Image Analysis for Urban Growth Prediction
 
 This bundle contains step-by-step code to process the annual global `.tif` urban extent dataset, prepare training data, build a ConvLSTM model, train it, evaluate it, and visualize predictions.
 
