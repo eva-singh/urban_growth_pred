@@ -11,6 +11,3 @@ This bundle contains step-by-step code to process the annual global `.tif` urban
 - `4_predict_and_visualize.py` - inference and visualization helpers
 - `5_evaluate_model.py` - evaluation metrics
 - `app.py` - for a simple dashboard
-- `utils.py` - utility functions used across scripts
-- `run_example.sh` - example commands to run the pipeline
-- `README.md` - this file
